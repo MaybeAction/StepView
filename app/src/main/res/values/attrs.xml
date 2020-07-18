@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="step_view">
+        <attr name="step_lineHeight" format="dimension"/>
+        <attr name="step_radius" format="dimension"/>
+        <attr name="step_out_radius" format="dimension"/>
+        <attr name="step_marginTop" format="dimension"/>
+        <attr name="step_textSize" format="dimension"/>
+        <attr name="step_textColor" format="color"/>
+        <attr name="step_bgColor" format="color"/>
+        <attr name="step_line_selected_color" format="color"/>
+        <attr name="step_inner_circleColor" format="color"/>
+    </declare-styleable>
+</resources>
